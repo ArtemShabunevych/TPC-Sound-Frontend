@@ -40,3 +40,11 @@ Profile System
 Notification System
 Recommendation System
 Admin Panel
+
+├── Redux Toolkit
+├── RTK Query
+├── React Router
+├── MUI
+├── Styled Components
+├── Framer Motion
+└── WaveSurfer.js
