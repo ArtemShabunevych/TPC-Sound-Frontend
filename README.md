@@ -1,4 +1,4 @@
-# TPC-Sound-Frontend
+# SoundGravity-Frontend
 Технології
 Frontend: React, TypeScript, Redux Toolkit, React Router, Axios
 Backend: NestJS, TypeScript
